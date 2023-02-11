@@ -1,0 +1,47 @@
+             day 1     Workshop GDSC TENSORFLOW 10-2-23
+Overfitting
+Underfitting- 
+Perfect fitting
+Feature 
+Label/Target
+Trained model
+ex- topper,average,backbencher
+Perceptron
+ex- y=mx+c
+y cap =wx+b where w,x,b are vetors
+here bias, inputs , outputs, weights
+Activation function- 0 to 1 range , 0.5 > means the object is present
+AF also known as non-linear function
+Forward propagation
+Back propagate
+loss function
+error rate
+w=w-alpha*del J /del w
+b=b-alpha*del J /del b
+learning rate
+gradient descent
+Train and testing
+Visualization of 1d,2d,3d or more array or vectors
+ex- [[1,45,5,54],[2,3,4,5]]- 2d array (rows,columns)
+i.e. 2,4
+in case of 3d array its 2d two times in 3d
+ex- [[[1,2,3,4],[2,4,34,45]],[[2,4,5,6],[4,5,6,33]]]
+(2,2,4)
+weights is in float value
+Image processing
+(image to number)
+2d array will be converted to 1d array and then given to neural 
+Activation functions
+sigmoid to identify
+relu - for hidden layers
+softmax - gives probabilties
+predict on test 
+fit on train
+image filters
+linear and non linear filters on image
+Feature map
+input_img 
+(n+2p-f)/s +1
+max polling or average polling 
+con2d
+
